@@ -18,9 +18,6 @@
   },
   "dependencies": {
     "modern-normalize": "^1.1.0",
-    "stylelint": "^14.5.0",
-    "stylelint-config-prettier": "^9.0.3",
-    "stylelint-config-standard-vue": "^1.0.0",
     "vue": "^3.2.29"
   },
   "devDependencies": {
@@ -36,6 +33,9 @@
     "eslint-plugin-vue": "^8.2.0",
     "jsdom": "^19.0.0",
     "prettier": "^2.5.1",
+    "stylelint": "^14.5.0",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-standard-vue": "^1.0.0",
     "typescript": "~4.5.5",
     "vite": "^2.7.13",
     "vitest": "^0.3.4",
